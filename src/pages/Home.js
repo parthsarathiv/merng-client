@@ -1,6 +1,5 @@
 import React, {useContext} from 'react'
 import { useQuery } from '@apollo/client'
-import gql from 'graphql-tag'
 import { Grid, Transition } from 'semantic-ui-react'
 
 import { AuthContext } from '../context/auth'

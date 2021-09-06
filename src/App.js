@@ -5,7 +5,7 @@ import { Container } from 'semantic-ui-react'
 import 'semantic-ui-css/semantic.min.css'
 import './App.css';
 
-import { AuthProvider, AuthContext } from './context/auth';
+import { AuthProvider } from './context/auth';
 import AuthRoute from './utils/AuthRoute'
 
 import MenuBar from './components/MenuBar';
