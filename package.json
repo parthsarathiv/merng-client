@@ -8,6 +8,7 @@
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
     "apollo-link-context": "^1.0.20",
+    "graphql": "^15.5.3",
     "jwt-decode": "^3.1.2",
     "moment": "^2.29.1",
     "react": "^17.0.2",
@@ -42,6 +43,5 @@
       "last 1 safari version"
     ]
   },
-
   "proxy": "https://lit-peak-40203.herokuapp.com/"
 }
